@@ -1,5 +1,9 @@
 # Lola Books
 
+## Build Status
+
+* [![Build Status](https://travis-ci.org/orieken/lola-books.svg?branch=master)](https://travis-ci.org/orieken/lola-books)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.4.
 
 ## Development server
